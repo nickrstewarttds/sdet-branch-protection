@@ -1,0 +1,1 @@
+# sdet-branch-protection
